@@ -21,7 +21,7 @@
   "license": "ISC",
   "dependencies": {
     "lodash": "^4.17.10",
-    "typescript": "^3.0.1",
+    "typescript": "^4.2.3",
     "vuex": "^3.0.1",
     "vuex-persist": "^1.4.3",
     "vue": "^2.5.17"
